@@ -20,3 +20,9 @@ We tried to plot :
 
 4. Sales analysis by categories
 
+## Insights
+
+ 1. By analysing sales by region,  Central region was at the top and East region at the bottom
+ 2. 2014 was the highest sales recorded year .
+ 3. Category wise Technology category was the best sales recorded.
+ 4. While considering the profit 2014 was the best profit year for the store 
